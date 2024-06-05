@@ -2,15 +2,18 @@ body{
     font-family: arial;
     color: #333;
 }
+
 h1{
     font-weight: normal;
     margin: 20px auto;
     text-align: center;
 }
+
 form{
     width: 500px;
     margin: 20px auto;
 }
+
 input{
     display: block;
     padding: 8px 16px;
