@@ -6,17 +6,16 @@
 
 //                //--------- Meta Characters----------//
 
-//  -\d    Match any digit character(same as [0-9])
+//  \d    Match any digit character(same as [0-9])
 
-//  -\w    match any word character (a-z, A-Z, 0-9 and _'s)
+//  \w    match any word character (a-z, A-Z, 0-9 and _'s)
 
-//  -\s    match a white character (spaces, tabs, etc)
+//  \s    match a white character (spaces, tabs, etc)
 
-//  -\t    match a tab character onplay
+//  \t    match a tab character onplay
 
 //  d -- matches the literals character, 'd'
 
-//  /d -- matches any digit character
 
 
  /* []      //single character
