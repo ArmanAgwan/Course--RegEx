@@ -44,3 +44,11 @@
 //  '.'  Any character whatsover ( except the newline character)
  
 //  '*' The 0 or more quantifier ( a bit like +) 
+
+
+//----------Email Regx----------//
+
+        // 1            2            3         4
+    // (yourname) @   (domain) . (extension) (.again)
+
+    //  (theboss) @   (thenetninja) . (co)   (.uk)
